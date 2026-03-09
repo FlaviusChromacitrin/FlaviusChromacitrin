@@ -7,4 +7,4 @@
 **This** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on this github profile.
 
 I'm working on neamonternafont :)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=NeaMonternaFont&size=100&pause=1000&color=F77B00&width=4350&height=500&lines=This+is+flavius;And+welcome" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=NeaMonternaFont&size=300&pause=1000&color=F77B00&background=F7FF00&center=true&vCenter=true&width=4350&height=500&lines=This+is+flavius;And+welcome" alt="Typing SVG" /></a>
